@@ -1,0 +1,17 @@
+127.0.0.1 - - [16/Mar/2023:10:44:55 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:44:57 +0530] "GET /hibernateproject/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:44:57 +0530] "GET /hibernateproject/login.jsp HTTP/1.1" 200 389
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:45:00 +0530] "GET /hibernateproject/regester.jsp HTTP/1.1" 200 415
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:45:28 +0530] "POST /hibernateproject/reg HTTP/1.1" 500 1302
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:47:55 +0530] "POST /hibernateproject/reg HTTP/1.1" 500 1302
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:48:04 +0530] "POST /hibernateproject/reg HTTP/1.1" 500 1302
+127.0.0.1 - - [16/Mar/2023:10:49:39 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:49:40 +0530] "GET /hibernateproject/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:49:40 +0530] "GET /hibernateproject/login.jsp HTTP/1.1" 200 389
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:49:42 +0530] "GET /hibernateproject/regester.jsp HTTP/1.1" 200 415
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:49:57 +0530] "POST /hibernateproject/reg HTTP/1.1" 500 1302
+127.0.0.1 - - [16/Mar/2023:10:53:51 +0530] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:53:52 +0530] "GET /hibernateproject/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:53:52 +0530] "GET /hibernateproject/login.jsp HTTP/1.1" 200 389
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:54:47 +0530] "GET /hibernateproject/regester.jsp HTTP/1.1" 200 415
+0:0:0:0:0:0:0:1 - - [16/Mar/2023:10:55:01 +0530] "POST /hibernateproject/reg HTTP/1.1" 500 1302

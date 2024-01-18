@@ -1,0 +1,5 @@
+package hibernate.jpa.controller;
+
+public class Verify {
+
+}

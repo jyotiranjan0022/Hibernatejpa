@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\Admin\eclipse-workspace\hibernatejpa\.metadata\.plugins\org.eclipse.jdt.core
+3145748812.index
+4277313821.index
+2661357382.index
+329018730.index
+3758924157.index
+1768126895.index
+1865797976.index
